@@ -42,3 +42,24 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+//********STACK(PREMITIVE ) , HEAP (NON PREMITIVE ) */
+//in stack data receive in a form of coyp.
+// in heap data receive in the form of original
+let mygithubid = "divyprakash01"
+anothername = mygithubid
+another = "linkdin id"
+console.log(mygithubid)
+console.log(anothername);
+let userone = {
+    email:"abc@gmail.com",
+    id:"123456"
+}
+let usertwo = {
+    email:"alpha@gmail.com",
+    id:"12345789"
+}
+console.log(userone.email);
+console.log(usertwo.id);
+
+
