@@ -27,3 +27,5 @@ let someNumber = 33
  ;
  console.log(typeof stringnumber);
  //delat
+
+ //naya
