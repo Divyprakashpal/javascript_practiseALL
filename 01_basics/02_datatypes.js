@@ -26,3 +26,4 @@ let someNumber = 33
  console.log(stringnumber)
  ;
  console.log(typeof stringnumber);
+ //delat
